@@ -4,5 +4,5 @@ DH RSE summer school repository
 
 
 
-this file seems to be empty?
+It is sunny today
 
