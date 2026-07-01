@@ -4,5 +4,5 @@ DH RSE summer school repository
 
 
 
-It is sunny today
+It is cold today
 
